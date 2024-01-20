@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <details>
-<summary>不要点开, 博客网站用的</summary>
+<summary>文章简介</summary>
 <blockquote>
 
 <details>
